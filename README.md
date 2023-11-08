@@ -1,4 +1,6 @@
 # Time-series-prediction-LSTM
+Update in Nov.08
+The "End..." pdf and ipynb file is the version considering recursive predition. The input of the sequence is the prediction of last sequence, that is the whole prediction based on the previouvs prediction, and there was not exteror factor added in. It could show the potiential results without the special events.
 
 Here is the explanation of the three ipynb files. 
 
